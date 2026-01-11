@@ -1,6 +1,6 @@
 # AC400 IR Controller – Sender Configuration
 
-This repository contains the `sender.yaml` configuration file used to transmit infrared (IR) commands for controlling an **AC400 air cleaner**.
+This repository contains the `sender.yaml` configuration file used to transmit infrared (IR) commands for controlling an **Record Power AC400 air cleaner**.
 The file defines IR command sequences that replicate the functions of the original remote control and can be used with microcontrollers and IR transmitter hardware.
 
 ## File Overview
